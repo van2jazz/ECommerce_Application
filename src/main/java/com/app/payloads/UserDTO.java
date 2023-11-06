@@ -1,6 +1,7 @@
 package com.app.payloads;
 
-import com.app.entites.Role;
+
+import com.app.entities.Role;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
