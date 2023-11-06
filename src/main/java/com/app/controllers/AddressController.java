@@ -1,6 +1,6 @@
 package com.app.controllers;
 
-import com.app.entites.Address;
+import com.app.entities.Address;
 import com.app.payloads.AddressDTO;
 import com.app.services.AddressService;
 import io.swagger.v3.oas.annotations.security.SecurityRequirement;

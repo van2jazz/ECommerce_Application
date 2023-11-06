@@ -1,6 +1,6 @@
 package com.app.services;
 
-import com.app.entites.Product;
+import com.app.entities.Product;
 import com.app.payloads.ProductDTO;
 import com.app.payloads.ProductResponse;
 import org.springframework.web.multipart.MultipartFile;

@@ -1,7 +1,7 @@
 package com.app.services;
 
-import com.app.config.UserInfoConfig;
-import com.app.entites.User;
+
+import com.app.entities.User;
 import com.app.exceptions.ResourceNotFoundException;
 import com.app.repositories.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,6 +9,8 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
+import com.app.config.UserInfoConfig;
+
 
 import java.util.Optional;
 

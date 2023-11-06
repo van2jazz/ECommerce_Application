@@ -1,7 +1,8 @@
 package com.app.services;
 
-import com.app.entites.Category;
-import com.app.entites.Product;
+
+import com.app.entities.Category;
+import com.app.entities.Product;
 import com.app.exceptions.APIException;
 import com.app.exceptions.ResourceNotFoundException;
 import com.app.payloads.CategoryDTO;

@@ -1,7 +1,8 @@
 package com.app.services;
 
+
 import com.app.config.AppConstants;
-import com.app.entites.*;
+import com.app.entities.*;
 import com.app.exceptions.APIException;
 import com.app.exceptions.ResourceNotFoundException;
 import com.app.payloads.*;

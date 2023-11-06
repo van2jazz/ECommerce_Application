@@ -1,8 +1,8 @@
 package com.app.services;
 
-import com.app.entites.Cart;
-import com.app.entites.CartItem;
-import com.app.entites.Product;
+import com.app.entities.Cart;
+import com.app.entities.CartItem;
+import com.app.entities.Product;
 import com.app.exceptions.APIException;
 import com.app.exceptions.ResourceNotFoundException;
 import com.app.payloads.CartDTO;
