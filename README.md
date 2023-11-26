@@ -38,7 +38,7 @@
 #  Running the app
 
 1. Clone the repository: git clone https://github.com/van2jazz/ECommerce_Application 
-2. Import the project into STS:
+2. Import the project:
 
 + Click File > Import...
 + Select Maven > Existing Maven Projects and click Next
