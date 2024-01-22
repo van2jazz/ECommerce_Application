@@ -28,7 +28,7 @@
 +  Java 17 or above
 +  Spring Boot 3.0
 +  Maven
-+  MySQL
++  postgreSQL
 +  Spring Data JPA
 +  Spring Security
 +  JSON Web Tokens (JWT)
